@@ -8,9 +8,7 @@
 # Find new paths!
 <img width="994" height="677" alt="image" src="https://github.com/user-attachments/assets/49f81ab7-d924-4f40-9b50-3b07f0b957de" />
 
-# Auto-Sorter, Green to yellow to red.
-<img width="521" height="38" alt="image" src="https://github.com/user-attachments/assets/ab0f4151-8c4b-4710-a1c1-5eefd0628fca" />
-<img width="521" height="38" alt="image" src="https://github.com/user-attachments/assets/21fe96c8-4e5c-45df-9447-406ad6646617" />
+# Feel free to edit the paths.txt !!
 
 
 
