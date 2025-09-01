@@ -22,7 +22,7 @@ async def check_path(session, sem, base_url, path, results):
             results['yellow'].append((None, url)) 
 
 async def main():
-    base_url = input("[ ROCKET - ver 1.5 - https://github.com/typescriptlang/Rocket ] Enter the base website URL (e.g. example.com): ").strip()
+    base_url = input("[ ROCKET - ver 1.6 - https://github.com/nicopancakes/Rocket ] Enter the base website URL (e.g. example.com): ").strip()
 
     if not base_url.startswith(('http://', 'https://')):
         base_url = 'https://' + base_url
