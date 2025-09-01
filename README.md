@@ -17,3 +17,4 @@
 ## ver 1.3 ( Updated Paths.txt )
 ## ver 1.4 ( Removed requirement for 'https://' )
 ## ver 1.5 ( Faster Wait Within Seconds )
+## ver 1.6 ( Updated Bug )
