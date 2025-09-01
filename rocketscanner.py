@@ -19,7 +19,7 @@ async def check_path(session, sem, base_url, path, results):
                 else:
                     results['yellow'].append((status, url))
         except:
-            results['yellow'].append((None, url))  # Treat errors as yellow for visibility
+            results['yellow'].append((None, url)) 
 
 async def main():
     base_url = input("[ ROCKET - ver 1.4 - https://github.com/typescriptlang/Rocket ] Enter the base website URL (e.g. example.com): ").strip()
@@ -41,16 +41,16 @@ async def main():
         tasks = [check_path(session, sem, base_url, path, results) for path in paths]
         await asyncio.gather(*tasks)
 
-    # Now print green results first
+    # Green
     for status, url in sorted(results['green'], key=lambda x: x[1]):
         print(f"{Fore.GREEN}[FOUND] {url} (Status: {status}){Style.RESET_ALL}")
 
-    # Then yellow (other status and errors)
+    # Yellow
     for status, url in sorted(results['yellow'], key=lambda x: x[1]):
         status_str = status if status is not None else "ERROR"
         print(f"{Fore.YELLOW}[{status_str}] {url}{Style.RESET_ALL}")
 
-    # Then red (404)
+    # Red
     for status, url in sorted(results['red'], key=lambda x: x[1]):
         print(f"{Fore.RED}[NOT FOUND] {url} (Status: {status}){Style.RESET_ALL}")
 
