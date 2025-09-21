@@ -2,7 +2,7 @@
 <img width="543" height="692" alt="image" src="https://github.com/user-attachments/assets/3366a484-9977-4dd4-83bb-e5b92901c0eb" />
 
 
-# Over 1500 paths, and more coming soon!
+# Over 2000 paths, and more coming soon!
 <img width="481" height="719" alt="image" src="https://github.com/user-attachments/assets/a50a86e7-8bd9-4856-8481-b8818382cd63" />
 
 # Find new paths!
@@ -18,4 +18,5 @@
 ## ver 1.4 ( Removed requirement for 'https://' ) 🔴
 ## ver 1.5 ( Faster Wait Within Seconds ) 🟠
 ## ver 1.6 ( Updated Bug ) 🟠
-## ver 1.7 ( Updated Paths.txt +2300x) 🟢
+## ver 1.7 ( Updated Paths.txt +2300x ) 🟢
+## ver 1.8 ( Removed Dupes in Paths.txt ) 🔴
