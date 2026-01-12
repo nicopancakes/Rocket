@@ -1,22 +1,8 @@
-# Rocket is a free to use, open source path scanner!
-<img width="543" height="692" alt="image" src="https://github.com/user-attachments/assets/3366a484-9977-4dd4-83bb-e5b92901c0eb" />
+# Rocket is a open source path scanner :
+<img width="869" height="279" alt="image" src="https://github.com/user-attachments/assets/c3af701c-409b-4829-bc03-218f02bb9ae7" />
 
+# Over 2000 paths, and more coming soon :
+<img width="280" height="253" alt="image" src="https://github.com/user-attachments/assets/2b11836a-159e-4580-8794-fb9de5807d66" />
 
-# Over 2000 paths, and more coming soon!
-<img width="481" height="719" alt="image" src="https://github.com/user-attachments/assets/a50a86e7-8bd9-4856-8481-b8818382cd63" />
-
-# Find new paths!
-<img width="994" height="677" alt="image" src="https://github.com/user-attachments/assets/49f81ab7-d924-4f40-9b50-3b07f0b957de" />
-
-# Feel free to edit the paths.txt !!
-
-
-# Update Log:
-
-## ver 1.2 ( Seven Minute Wait ) 🟠
-## ver 1.3 ( Updated Paths.txt +1000x ) 🟢 
-## ver 1.4 ( Removed requirement for 'https://' ) 🔴
-## ver 1.5 ( Faster Wait Within Seconds ) 🟠
-## ver 1.6 ( Updated Bug ) 🟠
-## ver 1.7 ( Updated Paths.txt +2300x ) 🟢
-## ver 1.8 ( Removed Dupes in Paths.txt ) 🔴
+# Find new paths :
+<img width="767" height="479" alt="image" src="https://github.com/user-attachments/assets/969ffa83-d982-4fed-a53d-5e64b93fdd89" />
