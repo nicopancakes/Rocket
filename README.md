@@ -6,7 +6,7 @@
 
 Rocket is a web path enumerator written in Python. It uses `asyncio` and `aiohttp` to perform fast directories, and endpoints during security testing.
 
-The tool includes a default wordlist of over 2,000 paths, 
+The tool includes a default wordlist of over 4,000 paths, 
 
 ### Important Notice
 
@@ -29,7 +29,6 @@ Always obtain written authorization before testing any target you do not own. Th
 - Python 3.8 or newer  
 - aiohttp  
 - tqdm
-- 
 ### Installation
 
 Clone the repository and set up a virtual environment (recommended):
